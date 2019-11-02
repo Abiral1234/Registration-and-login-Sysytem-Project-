@@ -44,7 +44,7 @@
 </head>
 <body>
 <nav>
-<span><a href="Sign Up page.php"><b>Sign UP</b></a></span>
+<span><a href="Index.html"><b>Sign UP</b></a></span>
 <span><a href="Login.php"><b>Log In</b></a></span>
 <br><br>
 <?php
